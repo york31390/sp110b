@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "97570a8c12b75c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9515da50bfcfcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux筆記.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e6454cf8cb4bfae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4973f67f0aa5c35a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d198bb9bb5aa6e01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a4eb62c867df023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27e74638e60c34af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.01218795776367
+  },
+  "right": {
+    "id": "70293e1c0fa9febb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b766729da54b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf757382abe49d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux筆記.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2dbc75281c85f26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux筆記.md"
+              }
+            }
+          },
+          {
+            "id": "b31ab3b515902618",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b4f34f4bdf34af8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux筆記.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b9515da50bfcfcd",
+  "lastOpenFiles": [
+    "linux筆記.md",
+    "Markdown.md"
+  ]
+}
