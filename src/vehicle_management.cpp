@@ -28,3 +28,11 @@ typedef struct {
   int amount_of_money;
 } vehicle_management_t;
 
+typedef struct {
+  char file_name[50];
+  char database_name[50];
+  unsigned int count;
+  vehicle_management_t source_data[DATABASE];
+  vehicle_management_t target_data[DATABASE];
+} info_argc_t;
+
