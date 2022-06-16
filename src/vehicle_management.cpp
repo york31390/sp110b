@@ -15,3 +15,16 @@ vehicle management 汽車管理軟體
 #define ADDR 6400
 #define DATE 22
 #define MONEY 22
+
+typedef struct {
+  unsigned int number;
+  char license_plate[LICENSE_PLATE];
+  unsigned int engine_number;
+  char name[NAME];
+  char id[ID];
+  char phone_number[PHONE_NUMBER];
+  char address[ADDR];
+  char date[DATE];
+  int amount_of_money;
+} vehicle_management_t;
+
