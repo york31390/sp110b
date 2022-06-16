@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux筆記.md",
-            "mode": "preview",
+            "file": "期末筆記.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux筆記.md",
+                "file": "期末筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux筆記.md"
+                "file": "期末筆記.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux筆記.md",
+                "file": "期末筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,9 @@
   },
   "active": "1b9515da50bfcfcd",
   "lastOpenFiles": [
-    "linux筆記.md",
-    "Markdown.md"
+    "期末筆記.md",
+    "README.md",
+    "Markdown.md",
+    "linux筆記.md"
   ]
 }
